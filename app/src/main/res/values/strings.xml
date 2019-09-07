@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Miley App</string>
+    <string name="title_activity_navigation">Miley</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="home_now">
+        <item>Now</item>
+        <item>Today</item>
+        <item>Weekly</item>
+        <item>Custom</item>
+
+    </string-array>
+
+
+    <string name="email">
+        <b>Email Id: </b>miley@gmail.com
+
+    </string>
+    <string name="mobile">
+       <b>Mobile: </b> 7304027757
+
+    </string>
+    <string name="about">The Outreach Program’s mission is additionally supported by individual and corporate donations and from the purchase of handcrafted baskets made by women in the Singida region of Tanzania. These baskets are then shipped prepaid to churches and other organizations to be sold on consignment. Outreach recognizes this as one way to assist the people of the Singida region in building a future of self-reliance.</string>
+    <string name="about1">The Outreach Program’s mission is additionally supported by individual and corporate donations and from the purchase of handcrafted baskets made by women in the Singida region of Tanzania. These baskets are then shipped prepaid to churches and other organizations to be sold on consignment. Outreach recognizes this as one way to assist the people of the Singida region in building a future of self-reliance.</string>
+    <string name="about2">The Outreach Program’s mission is additionally supported by individual and corporate donations and from the purchase of handcrafted baskets made by women in the Singida region of Tanzania. These baskets are then shipped prepaid to churches and other organizations to be sold on consignment. Outreach recognizes this as one way to assist the people of the Singida region in building a future of self-reliance.</string>
+
+</resources>
