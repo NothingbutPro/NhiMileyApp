@@ -158,7 +158,7 @@ public class Navigation extends AppCompatActivity
         View headerview = navigationView.getHeaderView(0);
         navigationView.setItemIconTintList(null);
 
-        profile_image = headerview.findViewById(R.id.profile_image);
+        profile_image = headerview.findViewById(R.id.profile_image1);
         profile_image.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
