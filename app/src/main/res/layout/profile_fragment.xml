@@ -52,15 +52,12 @@
 <!--                            android:src="@drawable/logo_lok_wt"-->
 <!--                            app:civ_border_color="#000" />-->
 
-                        <de.hdodenhof.circleimageview.CircleImageView
+                        <ImageView xmlns:app="http://schemas.android.com/apk/res-auto"
                             android:id="@+id/pppp"
-                            android:layout_width="150dp"
-                            android:layout_height="150dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="130dp"
                             android:layout_gravity="center"
-                            android:layout_marginTop="-6dp"
-                            android:foregroundGravity="top"
-                            android:src="@drawable/logo_lok_wt"
-                            app:civ_border_color="#000" />
+                            android:src="@drawable/logo_lok_wt" />
 
                         <TextView
 
